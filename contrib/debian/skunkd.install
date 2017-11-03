@@ -1,0 +1,2 @@
+debian/bin/morningcoind usr/bin
+src/morningcoind usr/lib/morningcoin

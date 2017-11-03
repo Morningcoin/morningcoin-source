@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=morningcoin
+Comment=morningcoin P2P Cryptocurrency
+Exec=/usr/bin/morningcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/morningcoin;
+Categories=Office;
+Name[en_US]=morningcoin-qt.desktop
